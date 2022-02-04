@@ -1,7 +1,7 @@
 # Employee Tracker
 This Project involves making Database using a Database made with MySQL to keep track of Employees. Employees, Departments, and Roles can be referenced from the Menu. They can also be added and removed. Employees can be updated as well.
 
-This video shows a Walkthrough - [CLick Here](https://youtu.be/hkxu0VxGs9Y)
+This video shows a Walkthrough - [Click Here](https://youtu.be/hkxu0VxGs9Y)
 
 # Criteria 
 ## Your Task
